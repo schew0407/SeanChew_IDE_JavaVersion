@@ -1,5 +1,5 @@
 package com.comp2042;
-
+ 
 /**
  * Immutable Data Transfer Object (DTO) containing a snapshot of the game state
  * required for rendering the view.
